@@ -1,1 +1,270 @@
-
+[
+  {
+    "id": 1,
+    "name": "Калифорния",
+    "description": "Крабовое мясо, огурец, масаго",
+    "price": 420,
+    "category": "roll",
+    "image": "https://YOUR_REPO_URL/images/roll_california.png"
+  },
+  {
+    "id": 2,
+    "name": "Филадельфия",
+    "description": "Лосось, сливочный сыр",
+    "price": 480,
+    "category": "roll",
+    "image": "https://raw.githubusercontent.com/SaintVl/fat-ninja-api/main/images/roll_philadelphia.png"
+  },
+  {
+    "id": 3,
+    "name": "Дракон зелёный",
+    "description": "Угорь, огурец, авокадо",
+    "price": 560,
+    "category": "roll",
+    "image": "https://YOUR_REPO_URL/images/roll_green_dragon.png"
+  },
+  {
+    "id": 4,
+    "name": "Дракон красный",
+    "description": "Лосось, авокадо, соус",
+    "price": 580,
+    "category": "roll",
+    "image": "https://YOUR_REPO_URL/images/roll_red_dragon.png"
+  },
+  {
+    "id": 5,
+    "name": "Тигровый ролл",
+    "description": "Креветка, сливочный сыр",
+    "price": 510,
+    "category": "roll",
+    "image": "https://YOUR_REPO_URL/images/roll_tiger.png"
+  },
+  {
+    "id": 6,
+    "name": "Самурай",
+    "description": "Лосось, огурец, соус унаги",
+    "price": 470,
+    "category": "roll",
+    "image": "https://YOUR_REPO_URL/images/roll_samurai.png"
+  },
+  {
+    "id": 7,
+    "name": "Канада",
+    "description": "Угорь, огурец, кунжут",
+    "price": 540,
+    "category": "roll",
+    "image": "https://YOUR_REPO_URL/images/roll_canada.png"
+  },
+  {
+    "id": 8,
+    "name": "Лава ролл",
+    "description": "Запечённый лосось, сыр",
+    "price": 460,
+    "category": "roll",
+    "image": "https://YOUR_REPO_URL/images/roll_lava.png"
+  },
+  {
+    "id": 9,
+    "name": "Бонито",
+    "description": "Стружка тунца, лосось, сыр",
+    "price": 430,
+    "category": "roll",
+    "image": "https://YOUR_REPO_URL/images/roll_bonito.png"
+  },
+  {
+    "id": 10,
+    "name": "Окинава",
+    "description": "Креветка, огурец, авокадо",
+    "price": 520,
+    "category": "roll",
+    "image": "https://YOUR_REPO_URL/images/roll_okinawa.png"
+  },
+🍣 Суши (10 шт.)
+json
+Копировать код
+  {
+    "id": 11,
+    "name": "Суши с лососем",
+    "description": "Свежий лосось на рисе",
+    "price": 120,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_salmon.png"
+  },
+  {
+    "id": 12,
+    "name": "Суши с тунцом",
+    "description": "Тунец премиум",
+    "price": 140,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_tuna.png"
+  },
+  {
+    "id": 13,
+    "name": "Суши с угрём",
+    "description": "Угорь, соус унаги",
+    "price": 160,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_eel.png"
+  },
+  {
+    "id": 14,
+    "name": "Суши с креветкой",
+    "description": "Креветка тигровая",
+    "price": 150,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_shrimp.png"
+  },
+  {
+    "id": 15,
+    "name": "Суши с масаго",
+    "description": "Икра капеллана",
+    "price": 130,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_masago.png"
+  },
+  {
+    "id": 16,
+    "name": "Суши с окунем",
+    "description": "Белая рыба, мягкий вкус",
+    "price": 125,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_seabass.png"
+  },
+  {
+    "id": 17,
+    "name": "Суши с кальмаром",
+    "description": "Отварной кальмар",
+    "price": 110,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_squid.png"
+  },
+  {
+    "id": 18,
+    "name": "Суши с гребешком",
+    "description": "Гребешок свежий",
+    "price": 170,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_scallop.png"
+  },
+  {
+    "id": 19,
+    "name": "Суши с омлетом",
+    "description": "Тамаго омлет",
+    "price": 100,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_tamago.png"
+  },
+  {
+    "id": 20,
+    "name": "Суши с крабом",
+    "description": "Снежный краб",
+    "price": 160,
+    "category": "sushi",
+    "image": "https://YOUR_REPO_URL/images/sushi_crab.png"
+  },
+🍱 Сашими (3 шт.)
+json
+Копировать код
+  {
+    "id": 21,
+    "name": "Сашими лосось",
+    "description": "Тонкие слайсы лосося",
+    "price": 380,
+    "category": "sashimi",
+    "image": "https://YOUR_REPO_URL/images/sashimi_salmon.png"
+  },
+  {
+    "id": 22,
+    "name": "Сашими тунец",
+    "description": "Тунец премиум",
+    "price": 400,
+    "category": "sashimi",
+    "image": "https://YOUR_REPO_URL/images/sashimi_tuna.png"
+  },
+  {
+    "id": 23,
+    "name": "Сашими угорь",
+    "description": "Угорь в соусе",
+    "price": 420,
+    "category": "sashimi",
+    "image": "https://YOUR_REPO_URL/images/sashimi_eel.png"
+  },
+🧃 Напитки (5 шт.)
+json
+Копировать код
+  {
+    "id": 24,
+    "name": "Coca-Cola",
+    "description": "Классическая",
+    "price": 120,
+    "category": "drink",
+    "image": "https://YOUR_REPO_URL/images/drink_cola.png"
+  },
+  {
+    "id": 25,
+    "name": "Fanta",
+    "description": "Апельсиновая",
+    "price": 120,
+    "category": "drink",
+    "image": "https://YOUR_REPO_URL/images/drink_fanta.png"
+  },
+  {
+    "id": 26,
+    "name": "Sprite",
+    "description": "Лимон-лайм",
+    "price": 120,
+    "category": "drink",
+    "image": "https://YOUR_REPO_URL/images/drink_sprite.png"
+  },
+  {
+    "id": 27,
+    "name": "Японский чай",
+    "description": "Зелёный, холодный",
+    "price": 140,
+    "category": "drink",
+    "image": "https://YOUR_REPO_URL/images/drink_tea.png"
+  },
+  {
+    "id": 28,
+    "name": "Айс Латте",
+    "description": "Холодный кофе",
+    "price": 170,
+    "category": "drink",
+    "image": "https://YOUR_REPO_URL/images/drink_latte.png"
+  },
+🧁 Десерты (2 шт.) + Допы (2 шт.)
+json
+Копировать код
+  {
+    "id": 29,
+    "name": "Моти ассорти",
+    "description": "Три вкуса",
+    "price": 300,
+    "category": "dessert",
+    "image": "https://YOUR_REPO_URL/images/dessert_mochi.png"
+  },
+  {
+    "id": 30,
+    "name": "Сырники японские",
+    "description": "Творожные, мягкие",
+    "price": 250,
+    "category": "dessert",
+    "image": "https://YOUR_REPO_URL/images/dessert_sirniki.png"
+  },
+  {
+    "id": 31,
+    "name": "Васаби",
+    "description": "Острая паста",
+    "price": 30,
+    "category": "extra",
+    "image": "https://YOUR_REPO_URL/images/extra_wasabi.png"
+  },
+  {
+    "id": 32,
+    "name": "Имбирь маринованный",
+    "description": "Розовый имбирь",
+    "price": 30,
+    "category": "extra",
+    "image": "https://YOUR_REPO_URL/images/extra_ginger.png"
+  }
+]
